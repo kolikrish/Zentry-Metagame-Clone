@@ -22,19 +22,6 @@ A visually stunning and animated **Zentry clone** built with
 - React Icons
 - React parallax tilt
 
-⚡ Getting Started
-git clone
-
-
-npm install
-# or
-yarn install
-
-npm run dev
-# or
-yarn dev
-
 
 📜 License
-
 This project is for educational and portfolio purposes only. All rights to the original concept & design belong to Zentry.
